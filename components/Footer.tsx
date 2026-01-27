@@ -28,7 +28,7 @@ export default function Footer() {
                 height={32}
                 priority
               /> */}
-              <span className="text-lg font-semibold">department </span>
+              <span className="text-lg font-semibold">department expert </span>
             </Link>
           </div>
 
